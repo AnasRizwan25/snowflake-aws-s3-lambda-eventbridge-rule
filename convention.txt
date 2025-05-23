@@ -1,0 +1,4 @@
+lambda: fn-currency-exchange-rate-ar
+role: role-currency-exchange-rate
+s3: s3-currency-exchange-rate-ar
+eventbridge: rule-currency-exchange-rate-ar
